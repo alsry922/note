@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "c61acefd5beb3384",
+    "type": "split",
+    "children": [
+      {
+        "id": "489900b3e0e59b37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c6c77e820ea2c93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "node.js/서버로서의 노드.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "80e492f441a7bcaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "7000c6b09f0424be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc88efd183056146",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "161dfbe7c7c34f4e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "01c9b11b90bdebfc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4b7e75305e3ae16c",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe66927447a4d543",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56d3fb92f417a2c2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "node.js/서버로서의 노드.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "64265c5568224769",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "node.js/서버로서의 노드.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dc207e63a768c23d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1fb4285a86be96fa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "node.js/서버로서의 노드.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "1c6c77e820ea2c93",
+  "lastOpenFiles": [
+    "node.js/서버로서의 노드.md",
+    "node.js",
+    "images/README.md",
+    "note/node.js/무제 파일.md",
+    "note/README.md",
+    "note",
+    "Note",
+    "images",
+    "note/node.js"
+  ]
+}
