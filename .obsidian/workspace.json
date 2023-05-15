@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/Short-Circuit Evaluation.md",
+                "file": "JavaScript/Map, Set, WeakMap, WeakSet.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 258.5
   },
   "right": {
     "id": "4b7e75305e3ae16c",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/Short-Circuit Evaluation.md",
+                "file": "JavaScript/Map, Set, WeakMap, WeakSet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/Short-Circuit Evaluation.md",
+                "file": "JavaScript/Map, Set, WeakMap, WeakSet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/Short-Circuit Evaluation.md"
+                "file": "JavaScript/Map, Set, WeakMap, WeakSet.md"
               }
             }
           }
@@ -138,22 +138,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
     }
   },
   "active": "1c6c77e820ea2c93",
   "lastOpenFiles": [
-    "JavaScript/Type casting.md",
+    "JavaScript/Class.md",
     "JavaScript/Short-Circuit Evaluation.md",
+    "JavaScript/Type casting.md",
+    "JavaScript/Map, Set, WeakMap, WeakSet.md",
+    "JavaScript/Promise.md",
     "node.js/화살표 함수.md",
-    "JavaScript",
-    "node.js/이벤트 루프.md",
     "node.js/서버로서의 노드.md",
+    "node.js/이벤트 루프.md",
+    "JavaScript",
     "node.js",
     "images/README.md",
     "note/node.js/무제 파일.md",
