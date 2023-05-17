@@ -148,18 +148,22 @@
   },
   "active": "1c6c77e820ea2c93",
   "lastOpenFiles": [
-    "잡학다식IT/Ubuntu Linux에 NVM 설치하기.md",
+    "images/잡학다식IT/Ubuntu Linux에 php 7.0 설치하기/Pasted image 20230517103943.png",
+    "images/잡학다식IT/Ubuntu Linux에 php 7.0 설치하기/Pasted image 20230517110016.png",
+    "images/잡학다식IT/Ubuntu Linux에 php 7.0 설치하기/Pasted image 20230517105737.png",
+    "images/잡학다식IT/Ubuntu Linux에 php 7.0 설치하기/Pasted image 20230517105154.png",
+    "Pasted image 20230517103333.png",
     "잡학다식IT/Ubuntu Linux에 php 7.0 설치하기.md",
-<<<<<<< Updated upstream
-    "node.js/프로세스.md",
+    "images/잡학다식IT/Ubuntu Linux에 php 7.0 설치하기",
+    "images/잡학다식IT",
     "images/node.js/프로세스/프로세스_환경변수2.png",
     "images/node.js/프로세스/프로세스_환경변수1.png",
+    "잡학다식IT/Ubuntu Linux에 NVM 설치하기.md",
+    "node.js/프로세스.md",
     "images/node.js/프로세스",
     "images/node.js",
     "images",
     "JavaScript/JavaScript Object ES6.md",
-=======
->>>>>>> Stashed changes
     "JavaScript/Object.md",
     "JavaScript/Optional chaining & nullish coalescing.md",
     "잡학다식IT",
@@ -177,7 +181,6 @@
     "note/node.js/무제 파일.md",
     "note/README.md",
     "note",
-    "Note",
-    "note/node.js"
+    "Note"
   ]
 }
