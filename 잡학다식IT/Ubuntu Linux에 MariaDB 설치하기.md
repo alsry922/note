@@ -19,3 +19,5 @@ MySQL을 오라클에서 사고 나서 MySQL을 무료로 사용할 수 있도�
 
 MariaDB 실행 타임 아웃
 
+https://devnote.in/how-to-uninstall-mysql-from-ubuntu-20-04/
+https://serverfault.com/questions/1013128/mariadb-service-start-stuck-at-activating
