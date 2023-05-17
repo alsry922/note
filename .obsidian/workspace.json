@@ -150,6 +150,7 @@
   "lastOpenFiles": [
     "잡학다식IT/Ubuntu Linux에 NVM 설치하기.md",
     "잡학다식IT/Ubuntu Linux에 php 7.0 설치하기.md",
+<<<<<<< Updated upstream
     "node.js/프로세스.md",
     "images/node.js/프로세스/프로세스_환경변수2.png",
     "images/node.js/프로세스/프로세스_환경변수1.png",
@@ -157,6 +158,8 @@
     "images/node.js",
     "images",
     "JavaScript/JavaScript Object ES6.md",
+=======
+>>>>>>> Stashed changes
     "JavaScript/Object.md",
     "JavaScript/Optional chaining & nullish coalescing.md",
     "잡학다식IT",
