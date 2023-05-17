@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "잡학다식IT/Ubuntu Linux에 php 7.0 설치하기.md",
+                "file": "잡학다식IT/Ubuntu Linux에 MariaDB 설치하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "잡학다식IT/Ubuntu Linux에 php 7.0 설치하기.md",
+                "file": "잡학다식IT/Ubuntu Linux에 MariaDB 설치하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "잡학다식IT/Ubuntu Linux에 php 7.0 설치하기.md",
+                "file": "잡학다식IT/Ubuntu Linux에 MariaDB 설치하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "잡학다식IT/Ubuntu Linux에 php 7.0 설치하기.md"
+                "file": "잡학다식IT/Ubuntu Linux에 MariaDB 설치하기.md"
               }
             }
           }
@@ -148,17 +148,19 @@
   },
   "active": "1c6c77e820ea2c93",
   "lastOpenFiles": [
+    "잡학다식IT/Ubuntu Linux에 MySQL 설치하기.md",
+    "잡학다식IT/Ubuntu Linux에 MariaDB 설치하기.md",
+    "잡학다식IT/Ubuntu Linux에 NVM 설치하기.md",
+    "잡학다식IT/Ubuntu Linux에 php 7.0 설치하기.md",
     "images/잡학다식IT/Ubuntu Linux에 php 7.0 설치하기/Pasted image 20230517103943.png",
     "images/잡학다식IT/Ubuntu Linux에 php 7.0 설치하기/Pasted image 20230517110016.png",
     "images/잡학다식IT/Ubuntu Linux에 php 7.0 설치하기/Pasted image 20230517105737.png",
     "images/잡학다식IT/Ubuntu Linux에 php 7.0 설치하기/Pasted image 20230517105154.png",
     "Pasted image 20230517103333.png",
-    "잡학다식IT/Ubuntu Linux에 php 7.0 설치하기.md",
     "images/잡학다식IT/Ubuntu Linux에 php 7.0 설치하기",
     "images/잡학다식IT",
     "images/node.js/프로세스/프로세스_환경변수2.png",
     "images/node.js/프로세스/프로세스_환경변수1.png",
-    "잡학다식IT/Ubuntu Linux에 NVM 설치하기.md",
     "node.js/프로세스.md",
     "images/node.js/프로세스",
     "images/node.js",

@@ -93,3 +93,38 @@ sudo update-alternatives --set php /usr/bin/php5.6
 다른 버전도 가능합니다.
 
 바꾼 후에는 마찬가지로 `php -v` 를 실행하여 기본 버전이 잘 바뀌었는지 확인합니다.
+
+# ✔️Apache 웹 서버에서 작동할 php 버전 설정
+
+`a2dismod` 명령으로 현재 버전으로 현재 버전을 비활성화 한 다음 `a2enmod` 명령으로 원하는 버전을 활성화 할 수 있습니다.
+
+먼저 비활성화 진행합니다.
+
+```bash
+#disable php version
+sudo a2dismod php7.0
+```
+
+이후에 원하는 버전으로 활성화 진행합니다.
+
+```bash
+#enable php version
+sudo a2enmod php5.6
+```
+
+설정을 완료했으면 apache 서버를 재실행합니다.
+
+```bash
+sudo systemctl restart apache2
+```
+
+# ✔️ 다른 버전으로 전환 후 php 구성파일 찾기
+
+위에서 소개한 내용대로 시스템에서 기본으로 사용할 php 버전을 변경할 수 있었습니다.
+
+다른 버전으로 전환 한 후에는 아래 명령어를 실행하여 php 구성 파일을 찾을 수 있습니다.
+
+```bash
+php -i | grep "Loaded Configuration File"
+```
+
