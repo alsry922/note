@@ -48,10 +48,10 @@ sudo mysql_secure_installation
 ```
 
 root 비밀번호 입력여부
-![[images/잡학다식IT/Ubuntu Linux에 MariaDB 설치하기/1.png]]
+![[images/잡학다식IT/Linux/Ubuntu Linux에 MariaDB 설치하기/1.png]]
 
 root 비밀번호 변경 여부
-![[images/잡학다식IT/Ubuntu Linux에 MariaDB 설치하기/2.png]]
+![[images/잡학다식IT/Linux/Ubuntu Linux에 MariaDB 설치하기/2.png]]
 
 anonymous 사용자 삭제 여부
 ![[3.png]]
