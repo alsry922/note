@@ -1,0 +1,1 @@
+![[images/에러핸들링/Ubuntu Linux MariaDB 설치 에러/1.png]]
