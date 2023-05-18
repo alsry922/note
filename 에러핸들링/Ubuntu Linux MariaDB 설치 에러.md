@@ -82,8 +82,10 @@ sudo systemctl status mariadb
 한참을 삭제와 설치, 검색을 반복하다가 찾은 글이 있습니다.
 
 https://bugs.launchpad.net/ubuntu/+source/mariadb-10.1/+bug/1806263
+
 https://askubuntu.com/questions/1216498/why-does-mariadb-installation-last-for-a-long-time
 https://mariadb.com/kb/en/the-community-mariadb-troubles-only-running-after-reboot-times-out-when-try/
+https://jimnong.tistory.com/758
 
 완전히 도움이 된 글은 런치패드의 버그 리포트였습니다.
 

@@ -101,3 +101,12 @@ sudo mysql -u admin -p;
 
 https://www.digitalocean.com/community/tutorials/how-to-install-mariadb-on-ubuntu-20-04
 https://blogger.pe.kr/885
+
+https://jjeongil.tistory.com/1965
+https://it.gwangtori.com/42
+https://velog.io/@shin6949/mariaDB-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%B4%88%EA%B8%B0-%EC%84%A4%EC%A0%95-Ubuntu#%EC%99%B8%EB%B6%80-ip%EC%97%90%EC%84%9C%EC%9D%98-%EC%A0%91%EC%86%8D%EC%9D%84-%ED%97%88%EC%9A%A9%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%9D%80-%EA%B2%BD%EC%9A%B0
+https://www.nemonein.xyz/2019/07/2254/
+
+하이디 sql, workbench
+https://allonsyit.tistory.com/14
+https://enjoydevelop.tistory.com/108

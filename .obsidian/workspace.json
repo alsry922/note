@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "에러핸들링/Ubuntu Linux MariaDB 설치 에러.md",
+                "file": "잡학다식IT/Ubuntu Linux에 Apache2 설치하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "에러핸들링/Ubuntu Linux MariaDB 설치 에러.md",
+                "file": "잡학다식IT/Ubuntu Linux에 Apache2 설치하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "에러핸들링/Ubuntu Linux MariaDB 설치 에러.md",
+                "file": "잡학다식IT/Ubuntu Linux에 Apache2 설치하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "에러핸들링/Ubuntu Linux MariaDB 설치 에러.md"
+                "file": "잡학다식IT/Ubuntu Linux에 Apache2 설치하기.md"
               }
             }
           }
@@ -148,13 +148,20 @@
   },
   "active": "82ff992caa7a56a2",
   "lastOpenFiles": [
+    "잡학다식IT/Ubuntu Linux에 MariaDB 설치하기.md",
+    "잡학다식IT/Ubuntu Linux에 Apache2 설치하기.md",
+    "잡학다식IT/Ubuntu Linux에 MySQL 설치하기.md",
+    "잡학다식IT/Ubuntu Linux에 NVM 설치하기.md",
+    "잡학다식IT/Ubuntu Linux에 php 7.0 설치하기.md",
+    "잡학다식IT/Ubuntu find 명령어.md",
+    "잡학다식IT/Ubuntu dpkg.md",
+    "잡학다식IT/Ubuntu apt remove vs apt purge.md",
+    "에러핸들링/Ubuntu Linux MariaDB 설치 에러.md",
     "images/에러핸들링/Ubuntu Linux MariaDB 설치 에러/2.png",
     "images/에러핸들링/Ubuntu Linux MariaDB 설치 에러/Ubuntu Linux MariaDB 설치 에러.md",
     "images/에러핸들링/Ubuntu Linux MariaDB 설치 에러",
-    "에러핸들링/Ubuntu Linux MariaDB 설치 에러.md",
     "images/에러핸들링/Ubuntu Linux MariaDB 설치 에러/1.png",
     "images/에러핸들링",
-    "잡학다식IT/Ubuntu Linux에 MariaDB 설치하기.md",
     "에러핸들링",
     "images/잡학다식IT/Ubuntu Linux에 MariaDB 설치하기/사진.md",
     "images/잡학다식IT/Ubuntu Linux에 MariaDB 설치하기/3.png",
@@ -171,9 +178,6 @@
     "images/잡학다식IT/Ubuntu Linux에 MariaDB 설치하기",
     "node.js/동기와 비동기 순서 지키기.md",
     "node.js/노드 내장 모듈.md",
-    "잡학다식IT/Ubuntu Linux에 NVM 설치하기.md",
-    "잡학다식IT/Ubuntu Linux에 php 7.0 설치하기.md",
-    "잡학다식IT/Ubuntu Linux에 MySQL 설치하기.md",
     "images/잡학다식IT/Ubuntu Linux에 php 7.0 설치하기",
     "images/잡학다식IT",
     "node.js/화살표 함수.md",
@@ -189,9 +193,6 @@
     "JavaScript/Optional chaining & nullish coalescing.md",
     "JavaScript/Class.md",
     "JavaScript/Short-Circuit Evaluation.md",
-    "JavaScript/Type casting.md",
-    "JavaScript/Promise.md",
-    "images/README.md",
-    "note/node.js/무제 파일.md"
+    "JavaScript/Type casting.md"
   ]
 }
