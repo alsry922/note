@@ -181,4 +181,37 @@ arguments 객체를 생성하지 않는다.
 
 아니면 타입 스크립트를 사용하는 방법도 있다.
 
+```javascript
+function add(x,y) {
+	if (typeof x !== 'number' || typeof y !== 'number') {
+		throw new TypeError('인수는 모두 숫자 값이어야 한다.');
+	}
+	return x + y;
+}
+```
+
+```javascript
+function add(x, y, z) {
+	x = x || 0;
+	y = y || 0;
+	z = z || 0;
+	return x + y + z;
+}
+```
+
+### 👉매개변수 갯수
+
+자바스크립트에서 함수 호출 시 매개 변수 순서가 중요하다.
+
+따라서 너무 많은 매개 변수 선언을 3개를 넘지 않도록 노력하자.
+
+그 이상의 매개변수가 필요하다면, 객체를 인수로 전달하자.
+
+### 👉반환문
+
+반환문 -> `return` 키워드 + 표현식
+
+함수 호출은 표현식이며 평가 결과가 반환값이다.
+
+return 값으로 사용할 표현식을 명시적으로 지정하지 않으면 `undefined` 가 반환된다.
 
