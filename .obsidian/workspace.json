@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/Git 기본 개념.md",
+                "file": "git/git log.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/Git 기본 개념.md",
+                "file": "git/git log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/Git 기본 개념.md",
+                "file": "git/git log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/Git 기본 개념.md"
+                "file": "git/git log.md"
               }
             }
           }
@@ -146,11 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc88efd183056146",
+  "active": "6de81e1043dea6fd",
   "lastOpenFiles": [
+    "images/잡학다식IT/git log/2.png",
+    "git/git log.md",
+    "images/잡학다식IT/git log/1.png",
+    "images/잡학다식IT/git log",
+    "git/Git 기본 개념.md",
     "images/잡학다식IT/Git 기본 개념/2.png",
     "images/잡학다식IT/Git 기본 개념/1.png",
-    "git/Git 기본 개념.md",
     "images/잡학다식IT/Git 기본 개념",
     "git/commit 해보기.md",
     "images/잡학다식IT/commit 해보기/5.png",
@@ -161,9 +165,6 @@
     "images/잡학다식IT/Git 사용하기(필수 개념과 commit 해보기)/20230531diary-1.png",
     "images/잡학다식IT/commit 해보기",
     "git/Git 시작하기.md",
-    "images/잡학다식IT/Git 시작하기/git status after init.png",
-    "images/잡학다식IT/Git 시작하기/git init.png",
-    "images/잡학다식IT/Git 시작하기/git status before init.png",
     "git/What is Git & Github.md",
     "images/잡학다식IT/Git 시작하기",
     "git",
@@ -191,8 +192,6 @@
     "잡학다식IT/Ubuntu Linux에 NVM 설치하기.md",
     "잡학다식IT/Ubuntu Linux에 php 7.0 설치하기.md",
     "잡학다식IT/Ubuntu find 명령어.md",
-    "잡학다식IT/Ubuntu dpkg.md",
-    "잡학다식IT/Ubuntu apt remove vs apt purge.md",
-    "images/에러핸들링/Ubuntu Linux MariaDB 설치 에러"
+    "잡학다식IT/Ubuntu dpkg.md"
   ]
 }
