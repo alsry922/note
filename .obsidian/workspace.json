@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/commit 해보기.md",
+                "file": "git/Git 기본 개념.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/commit 해보기.md",
+                "file": "git/Git 기본 개념.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/commit 해보기.md",
+                "file": "git/Git 기본 개념.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/commit 해보기.md"
+                "file": "git/Git 기본 개념.md"
               }
             }
           }
@@ -148,8 +148,12 @@
   },
   "active": "fc88efd183056146",
   "lastOpenFiles": [
-    "images/잡학다식IT/commit 해보기/5.png",
+    "images/잡학다식IT/Git 기본 개념/2.png",
+    "images/잡학다식IT/Git 기본 개념/1.png",
+    "git/Git 기본 개념.md",
+    "images/잡학다식IT/Git 기본 개념",
     "git/commit 해보기.md",
+    "images/잡학다식IT/commit 해보기/5.png",
     "images/잡학다식IT/commit 해보기/4.png",
     "images/잡학다식IT/commit 해보기/3.png",
     "images/잡학다식IT/commit 해보기/2.png",
@@ -161,7 +165,6 @@
     "images/잡학다식IT/Git 시작하기/git init.png",
     "images/잡학다식IT/Git 시작하기/git status before init.png",
     "git/What is Git & Github.md",
-    "images/잡학다식IT/Git 시작하기/git config --global --list.png",
     "images/잡학다식IT/Git 시작하기",
     "git",
     "잡학다식IT/Putty로 Ubuntu Linux ssh 원격 접속 하기.md",
@@ -190,8 +193,6 @@
     "잡학다식IT/Ubuntu find 명령어.md",
     "잡학다식IT/Ubuntu dpkg.md",
     "잡학다식IT/Ubuntu apt remove vs apt purge.md",
-    "images/에러핸들링/Ubuntu Linux MariaDB 설치 에러",
-    "images/에러핸들링",
-    "images/잡학다식IT/Ubuntu Linux에 MariaDB 설치하기/사진.md"
+    "images/에러핸들링/Ubuntu Linux MariaDB 설치 에러"
   ]
 }
