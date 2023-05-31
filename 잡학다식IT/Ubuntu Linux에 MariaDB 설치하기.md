@@ -54,13 +54,13 @@ root 비밀번호 변경 여부
 ![[images/잡학다식IT/Ubuntu Linux에 MariaDB 설치하기/2.png]]
 
 anonymous 사용자 삭제 여부
-![[3.png]]
+![[images/잡학다식IT/Ubuntu Linux에 MariaDB 설치하기/3.png]]
 
 원격 root 로그인 비허용 여부
-![[4.png]]
+![[images/잡학다식IT/Ubuntu Linux에 MariaDB 설치하기/4.png]]
 
 testdb 삭제 여부
-![[5.png]]
+![[images/잡학다식IT/Ubuntu Linux에 MariaDB 설치하기/5.png]]
 
 변경 내용 즉시 반영 여부
 ![[6.png]]
