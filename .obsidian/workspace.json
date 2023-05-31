@@ -11,11 +11,9 @@
             "id": "6de81e1043dea6fd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "git/Git 시작하기.md",
-                "mode": "source",
-                "source": false
+                "file": "images/잡학다식IT/Git 시작하기/git status after init.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/Git 시작하기.md",
+                "file": "images/잡학다식IT/Git 시작하기/git status after init.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/Git 시작하기.md",
+                "file": "images/잡학다식IT/Git 시작하기/git status after init.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/Git 시작하기.md"
+                "file": "images/잡학다식IT/Git 시작하기/git status after init.png"
               }
             }
           }
@@ -146,11 +144,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6de81e1043dea6fd",
+  "active": "fc88efd183056146",
   "lastOpenFiles": [
-    "Pasted image 20230531142346.png",
-    "images/잡학다식IT/Git 시작하기/git init.png",
     "git/Git 시작하기.md",
+    "images/잡학다식IT/Git 시작하기/git status after init.png",
+    "images/잡학다식IT/Git 시작하기/git init.png",
     "images/잡학다식IT/Git 시작하기/git status before init.png",
     "git/What is Git & Github.md",
     "images/잡학다식IT/Git 시작하기/git config --global --list.png",
@@ -175,7 +173,6 @@
     "images/잡학다식IT/Ubuntu Linux에 php 7.0 설치하기/Pasted image 20230517110016.png",
     "images/잡학다식IT/Ubuntu Linux에 MariaDB 설치하기/3.png",
     "images/잡학다식IT/Ubuntu Linux에 MariaDB 설치하기/4.png",
-    "images/잡학다식IT/Ubuntu Linux에 php 7.0 설치하기/Pasted image 20230517105737.png",
     "images/잡학다식IT/Ubuntu Linux에 MariaDB 설치하기/사진.md",
     "images/잡학다식IT/Ubuntu Linux에 php 7.0 설치하기",
     "images/잡학다식IT/Ubuntu Linux에 MariaDB 설치하기",

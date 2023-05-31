@@ -91,7 +91,7 @@ git init을 수행하고 .git 디렉토리가 생성되었습니다.
 git status
 ```
 
-![[Pasted image 20230531142346.png]]
+![[git status after init.png]]
 
 git repo로 만든 후 아직 아무것도 하지 않았기 때문에 commit할 변경사항이 없다고 나옵니다.
 
